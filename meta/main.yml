@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: ANHLN
+  author: anhln
   description: bake AMI
   company: FPT-Software
   license: bakeami
@@ -14,4 +14,4 @@ galaxy_info:
     - fptsoftware
     - anhln
 dependencies:
-  - { role: anhln.bakeami }
+  - { role: anhln }

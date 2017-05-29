@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: ANHLN
+  description: bake AMI
+  company: FPT-Software
+  license: bakeami
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags:
+    - acme
+    - installer
+    - web
+dependencies:
+  - { role: anhln.httpd }

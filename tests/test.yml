@@ -1,0 +1,5 @@
+---
+- hosts: /home/ubuntu/anhln/sample
+  remote_user: root
+  roles:
+    - { role: anhln }

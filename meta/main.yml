@@ -10,8 +10,8 @@ galaxy_info:
     versions:
     - all
   galaxy_tags:
-    - acme
-    - installer
-    - web
+    - bakeami
+    - fptsoftware
+    - anhln
 dependencies:
   - { role: anhln.bakeami }

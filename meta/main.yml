@@ -14,4 +14,4 @@ galaxy_info:
     - installer
     - web
 dependencies:
-  - { role: anhln.httpd }
+  - { role: anhln.bakeami }

@@ -14,4 +14,4 @@ galaxy_info:
     - fptsoftware
     - anhln
 dependencies:
-  - { role: anhln }
+  - { role: ngotnghet.bakeami }
